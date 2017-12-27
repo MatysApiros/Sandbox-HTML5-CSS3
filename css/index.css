@@ -1,19 +1,22 @@
-.fundo{
+body {
     background-color: #c9d1dc;    
+    font-family: 'Roboto', sans-serif;
 }
 
-.menu{
+.menu {
+    text-align: center;
+    float: left;
+    width: 15%;
+}
+
+.principal {
     float: right;
     clear: right;
-    width: 15%;
-    text-align: center;
-}
-
-.principal{
-    float: left;
     width: 85%;
+    text-align: right;
 }
 
-.navegacao{
+.navegacao {
     list-style: none;
+    padding: 0;
 }
