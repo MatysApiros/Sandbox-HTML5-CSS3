@@ -1,0 +1,19 @@
+.fundo{
+    background-color: #c9d1dc;    
+}
+
+.menu{
+    float: right;
+    clear: right;
+    width: 15%;
+    text-align: center;
+}
+
+.principal{
+    float: left;
+    width: 85%;
+}
+
+.navegacao{
+    list-style: none;
+}
