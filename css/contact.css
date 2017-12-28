@@ -1,0 +1,22 @@
+div{
+    padding-top: 7%;
+    padding-bottom: 30%;
+}
+
+input{
+    float: left;
+    clear: right;
+    margin: 20px;
+    margin-left: 45%;
+}
+
+textarea{
+    float: left;
+    clear: right;
+    margin: 20px;
+    margin-left: 45%;
+}
+
+p{
+    float: left;
+}
