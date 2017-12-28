@@ -3,20 +3,14 @@ div{
     padding-bottom: 30%;
 }
 
-input{
-    float: left;
-    clear: right;
-    margin: 20px;
-    margin-left: 45%;
+.container{
+    display: block;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    border: solid #646162;
 }
 
 textarea{
-    float: left;
-    clear: right;
-    margin: 20px;
-    margin-left: 45%;
-}
-
-p{
-    float: left;
+    margin-top: 30px;
 }

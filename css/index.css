@@ -31,7 +31,6 @@ main h1{
     padding: 25px;
     margin: 0;
     border-bottom: 10px solid #646162;
-    font-family: "Arial", "Open Sans Condensed", sans-serif;
     font-weight: bold;
     text-transform: uppercase;
 }
@@ -43,10 +42,13 @@ a{
 
 li{
     padding: 10px;
-    background-color: black;
+    background-color: #d6654f;
     margin: 10px;
+    width: 50%;
+    margin: 10px auto;
 }
 
 h2{
     padding-top: 10%;
+    color: #FFF;
 }
