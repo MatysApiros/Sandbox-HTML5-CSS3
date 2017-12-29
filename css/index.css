@@ -1,5 +1,5 @@
 body {
-    background-color: #e4e6e1;    
+    background-color: #f2f2f2;    
     font-family: 'Roboto', sans-serif;
 }
 
@@ -7,7 +7,7 @@ body {
     text-align: center;
     float: left;
     width: 15%;
-    background-color: #646162;
+    background-color: #303030;
 }
 
 .principal {
@@ -25,24 +25,25 @@ body {
 
 main h1{
     font-size: 60px;
-    background-color: #d6654f;
-    color: #FFF;
+    background-color: #e61f2b;
+    color: #f2f2f2;
     text-align: center;
     padding: 25px;
     margin: 0;
-    border-bottom: 10px solid #646162;
+    border-bottom: 10px solid #303030;
     font-weight: bold;
     text-transform: uppercase;
 }
 
 a{
-    color: #FFF;
+    color: #f2f2f2;
     text-decoration: none;
+    padding: 10px;
+    display: block;
 }
 
 li{
-    padding: 10px;
-    background-color: #d6654f;
+    background-color: #e61f2b;
     margin: 10px;
     width: 50%;
     margin: 10px auto;
@@ -50,5 +51,6 @@ li{
 
 h2{
     padding-top: 10%;
-    color: #FFF;
+    color: #f2f2f2;
+    font-family: 'Roboto', sans-serif;
 }
